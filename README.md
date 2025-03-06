@@ -1,2 +1,3 @@
 # pet-adpotion-web
-this our cllg project
+This is our cllg project
+pet adoption website
